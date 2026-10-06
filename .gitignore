@@ -1,2 +1,5 @@
 **neuralgym_logs**
 docs/build
+__pycache__/
+*.pyc
+.pytest_cache/
